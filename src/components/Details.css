@@ -1,0 +1,20 @@
+.info-card {
+    width: 40%;
+    margin: 30px;
+}
+
+.info-body {
+    background-color: #98a23c;
+    padding: 30px;
+    color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.info-title {
+    background-color: #692020;
+    color: white;
+    padding: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
